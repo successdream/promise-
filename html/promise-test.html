@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>promise-test</title>
+		<script src="../plugin/jquery-1.9.1/jquery-1.9.1.min.js"></script>
+	</head>
+	<body>
+		
+		<script>
+			var p = new Promise(function(resolve, reject){
+				$.ajax({
+					type:'get',
+					url:'../number/data1.json',
+					success:function(data){
+						resolve(data);
+					}	
+				})
+			})
+			
+			p.then(
+				function(data){
+					console.log(data)
+				}
+			)
+		
+		</script>
+	</body>
+</html>

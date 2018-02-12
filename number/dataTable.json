@@ -1,0 +1,100 @@
+{
+    "response_code": "0", 
+    "response_msg": "成功", 
+    "draw": "0", 
+    "recordsTotal": "2", 
+    "recordsFiltered": "2", 
+    "data": {
+        "total": "2", 
+        "data": [
+            {
+                "user_name": "test01", 
+                "real_name": "张三", 
+                "contact_number": "0571-11111111", 
+                "bollard_privileges": "0", 
+                "status": "0", 
+                "status_name": "正常"
+            }, 
+            {
+                "user_name": "test02", 
+                "real_name": "李四", 
+                "contact_number": "0571-22222222", 
+                "bollard_privileges": "0", 
+                "status": "0", 
+                "status_name": "正常"
+            },
+             {
+                "user_name": "test01", 
+                "real_name": "张三", 
+                "contact_number": "0571-11111111", 
+                "bollard_privileges": "0", 
+                "status": "0", 
+                "status_name": "正常"
+            }, 
+            {
+                "user_name": "test02", 
+                "real_name": "李四", 
+                "contact_number": "0571-22222222", 
+                "bollard_privileges": "0", 
+                "status": "0", 
+                "status_name": "正常"
+            },
+             {
+                "user_name": "test01", 
+                "real_name": "张三", 
+                "contact_number": "0571-11111111", 
+                "bollard_privileges": "0", 
+                "status": "0", 
+                "status_name": "正常"
+            }, 
+            {
+                "user_name": "test02", 
+                "real_name": "李四", 
+                "contact_number": "0571-22222222", 
+                "bollard_privileges": "0", 
+                "status": "0", 
+                "status_name": "正常"
+            },
+             {
+                "user_name": "test01", 
+                "real_name": "张三", 
+                "contact_number": "0571-11111111", 
+                "bollard_privileges": "0", 
+                "status": "0", 
+                "status_name": "正常"
+            }, 
+            {
+                "user_name": "test02", 
+                "real_name": "李四", 
+                "contact_number": "0571-22222222", 
+                "bollard_privileges": "0", 
+                "status": "0", 
+                "status_name": "正常"
+            },
+             {
+                "user_name": "test01", 
+                "real_name": "张三", 
+                "contact_number": "0571-11111111", 
+                "bollard_privileges": "0", 
+                "status": "0", 
+                "status_name": "正常"
+            }, 
+            {
+                "user_name": "test02", 
+                "real_name": "李四", 
+                "contact_number": "0571-22222222", 
+                "bollard_privileges": "0", 
+                "status": "0", 
+                "status_name": "正常"
+            },
+             {
+                "user_name": "test02", 
+                "real_name": "李四", 
+                "contact_number": "0571-22222222", 
+                "bollard_privileges": "0", 
+                "status": "0", 
+                "status_name": "正常"
+            }
+        ]
+    }
+}

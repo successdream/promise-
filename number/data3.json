@@ -1,0 +1,61 @@
+{
+    "response_code": "0", 
+    "response_msg": "成功", 
+    "data": [
+        {
+            "road_name": "西溪银座", 
+            "sync_datetime": "", 
+            "controller_id": "", 
+            "parent_id": "0", 
+            "road_level": "0", 
+            "privilege": "255", 
+            "road_id": "1", 
+            "road_description": "总控", 
+            "sync": "未同步"
+        }, 
+        {
+            "road_name": "西门", 
+            "sync_datetime": "", 
+            "controller_id": "", 
+            "parent_id": "1", 
+            "road_level": "1", 
+            "privilege": "255", 
+            "road_id": "69c3166d79e94c3ba480a5ef7670abb6", 
+            "road_description": "弘德路", 
+            "sync": "未同步"
+        }, 
+        {
+            "road_name": "西门出", 
+            "sync_datetime": "", 
+            "controller_id": "37FFDC054E59323522871051", 
+            "parent_id": "69c3166d79e94c3ba480a5ef7670abb6", 
+            "road_level": "2", 
+            "privilege": "255", 
+            "road_id": "164214dbbf5e4d7ead236a6fc3425cfc", 
+            "road_description": "西门出", 
+            "sync": "未同步"
+        }, 
+        {
+            "road_name": "西门进", 
+            "sync_datetime": "", 
+            "controller_id": "37FFD9054E59323529871051", 
+            "parent_id": "69c3166d79e94c3ba480a5ef7670abb6", 
+            "road_level": "2", 
+            "privilege": "255", 
+            "road_id": "d34bb11954e04146b4bd97544f2cb020", 
+            "road_description": "西门进", 
+            "sync": "未同步"
+        }, 
+        {
+            "road_name": "北门", 
+            "sync_datetime": "", 
+            "controller_id": "", 
+            "parent_id": "1", 
+            "road_level": "1", 
+            "privilege": "255", 
+            "road_id": "ac7993683850441a80c75274a3f75f8f", 
+            "road_description": "北门", 
+            "sync": "未同步"
+        }
+    ]
+}
